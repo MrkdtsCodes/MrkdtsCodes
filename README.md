@@ -12,7 +12,9 @@
 <h3>🎯 About me</h3>
 <div align="center">
   
-  <p>I am a Fullstack Developer who learns by doing. I love exploring Linux,and pushing my hardware to the limit, and making Pixel Art. I build projects from the ground up because I believe it is the best way to learn the basics.
+  <p>I am a Fullstack Developer who learns by doing. I love exploring Linux and pushing my hardware to the limit. Tweaking my system for maximum performance introduced me to the basics of homelabbing a rabbit hole I plan to dive deeper into soon.
+
+I believe in building projects from the ground up. This approach helps me master the fundamentals on a deeper level and ensures I truly retain what I learn. I also enjoy creating Pixel Art.
   </p>
   
   <a href="https://kevs0444.github.io">🌐 Check Portfolio</a> • 
