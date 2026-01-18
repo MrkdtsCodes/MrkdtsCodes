@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there! 👋 I'm MrkdtsCodes
 
-<!--
-**MrkdtsCodes/MrkdtsCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Aspiring+Web+Developer;Learning+PHP+and+SQL;Building+Cool+Projects;Loves+Problem+Solving" alt="Typing SVG" />
+  </a>
+</div>
+<br/>
 
-Here are some ideas to get you started:
+<div align="center">
+  I am currently learning and building projects to strengthen my web development skills. I love turning logic into working web applications!
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ My Tech Stack
+Here are the technologies I work with:
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql" />
+  </a>
+</div>
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MrkdtsCodes&show_icons=true&theme=tokyonight&hide_border=true" alt="MrkdtsCodes GitHub Stats" />
+</div>
+
+---
+
+<div align="center">
+  Thanks for visiting my profile!
+</div>
