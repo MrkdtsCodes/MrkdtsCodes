@@ -8,7 +8,7 @@
 <br/>
 
 <div align="center">
-  I am currently learning and building projects to strengthen my web development skills. I love turning logic into working web applications!
+  I am currently learning and building projects to strengthen my web development skills, and para magkabitaw din, wala pa akong bitaw eh.
 </div>
 
 ---
