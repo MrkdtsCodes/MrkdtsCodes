@@ -17,8 +17,16 @@
 I believe in building projects from the ground up. This approach helps me master the fundamentals on a deeper level and ensures I truly retain what I learn. I also enjoy creating Pixel Art.
   </p>
   
-  <a href="https://kevs0444.github.io">🌐 Check Portfolio</a> • 
-  <a href="mailto:markevinalcantara40@gmail.com">📫 datusmarkandriedalisay@gmail.com</a>
+  <div align="center">
+  <h3>🤝 Connect with Me</h3>
+
+  <a href="https://">
+    <img src="https://img.icons8.com/fluency/48/domain.png" height="40" alt="Portfolio" />
+  </a>
+   <a href="mailto:datusmarkandriedalisay@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
+  </a>
+</div>
 </div>
 
 ---
@@ -51,6 +59,6 @@ Grinding Everyday Para Magka bitaw ang kosa mo:
 ---
 
 <div align="center">
-  <b>"Innovate or Disintegrate. Omsim."</b> 💯 <br>
-  <a href="https://kevs0444.github.io">Connect Tayo, Sah!</a>
+  <b>Created With 💖
+  <a href="https://kevs0444.github.io"></a>
 </div>
