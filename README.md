@@ -1,9 +1,9 @@
-# Hi there! 👋 I'm Mark Andrie Datus
+# Hi there! I'm Datus Mark Andrie you can call me DOS👋
 
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=3B80A2&center=true&vCenter=true&width=900&lines=Bachelor+of+Science+in+Information+Technology+Student;Aspiring+to+be+a+Full+Stack+Developer;Building+Smart+Systems;Hustle+Hard+Everyday+Para+Magka+Bitaw+" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F000FF&center=true&vCenter=true&width=900&lines=Bachelor+of+Science+in+Information+Technology+Student;Aspiring+to+be+a+Full+Stack+Developer;Building+Smart+Systems;Hustle+Hard+Everyday+Para+Magka+Bitaw+" alt="Typing SVG" />
   </a>
 </div>
 
